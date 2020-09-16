@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="ymir-web-design-01.png"
+   sodipodi:docname="ymir-web-design-01.svg"
+   inkscape:version="1.0 (unknown)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 264.76806 297"
+   height="1122.5197"
+   width="1000.7008">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="0,0"
+       origin="150.38,224.46"
+       id="path-effect88"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="3"
+       starting_angle="0"
+       rotation_angle="115"
+       gap="0.14"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="0,0"
+       origin="150.38,224.46"
+       id="path-effect61"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="3"
+       starting_angle="0"
+       rotation_angle="115"
+       gap="0.14"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="0,0"
+       origin="150.38,224.46"
+       id="path-effect112"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="3"
+       starting_angle="0"
+       rotation_angle="115"
+       gap="0.14"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="0,0"
+       origin="150.38,224.46"
+       id="path-effect102"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="3"
+       starting_angle="0"
+       rotation_angle="115"
+       gap="0.14"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="164.78323,233.66322"
+       origin="150.38,224.46"
+       id="path-effect87"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="5"
+       starting_angle="-32.577324"
+       rotation_angle="120"
+       gap="0.14"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="0,0"
+       origin="150.38,224.46"
+       id="path-effect54"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="3"
+       starting_angle="0"
+       rotation_angle="115"
+       gap="0.14"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       split_items="false"
+       mirror_copies="false"
+       copies_to_360="true"
+       gap="0.14"
+       rotation_angle="120"
+       starting_angle="0"
+       num_copies="3"
+       method="normal"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect994"
+       origin="150.38,224.46"
+       starting_point="250.38,224.46"
+       effect="copy_rotate" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="250.38,224.46"
+       origin="150.38,224.46"
+       id="path-effect975"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="3"
+       starting_angle="0"
+       rotation_angle="120"
+       gap="0.14"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       split_items="false"
+       mirror_copies="false"
+       copies_to_360="true"
+       gap="0.14"
+       rotation_angle="115"
+       starting_angle="0"
+       num_copies="3"
+       method="normal"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect957"
+       origin="150.38,224.46"
+       starting_point="0,0"
+       effect="copy_rotate" />
+    <mask
+       id="mask936"
+       maskUnits="userSpaceOnUse">
+      <path
+         d="m 54.700538,183.79446 -23.161895,17.83716 1.438672,1.10794 -15.29364,46.50672 37.05872,2.30942 -0.0011,0.0109 0.08733,-0.006 0.08785,0.006 -0.0011,-0.0109 37.05872,-2.30942 -15.345318,-46.66433 1.234035,-0.95033 z M 75.847051,203.18398 57.897757,223.0608 54.828694,250.77539 51.760149,223.0608 34.395833,203.832 54.700538,219.46877 Z"
+         style="fill:#ffffff;stroke-width:0.696555;paint-order:markers fill stroke"
+         id="path938" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask71">
+      <circle
+         style="fill:#ffaaaa;stroke-width:0.457806;paint-order:markers fill stroke"
+         id="circle73"
+         cx="-150.85294"
+         cy="224.51366"
+         r="13.165795"
+         transform="scale(-1,1)" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="712"
+     inkscape:window-width="1366"
+     inkscape:snap-global="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g990"
+     inkscape:document-units="px"
+     inkscape:cy="362.28142"
+     inkscape:cx="670.74322"
+     inkscape:zoom="0.70710678"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="px"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="fill:#d70c0c;fill-opacity:1;stroke:none;stroke-width:0.831447;paint-order:markers fill stroke"
+       id="rect924"
+       width="264.76877"
+       height="125.79241"
+       x="-0.00035115675"
+       y="38.968681" />
+    <g
+       id="g958">
+      <g
+         id="g992"
+         transform="matrix(0.50698434,0,0,0.50698434,-44.688467,-92.485682)"
+         inkscape:export-filename="/home/user/Pictures/ymir/www/assets/iamges/logo.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <g
+           id="g990">
+          <circle
+             style="fill:#2b0000;stroke-width:0.79375;paint-order:markers fill stroke"
+             id="circle986"
+             cx="150.19093"
+             cy="220.34663"
+             r="22.827045" />
+          <path
+             id="path988"
+             style="fill:#ff2a2a;stroke-width:0.334214;paint-order:markers fill stroke"
+             d="m 148.08335,221.15827 2.26685,31.80748 -7.09325,-28.75504 z m 0.58559,6.94155 26.41266,-17.86689 -21.35597,20.52046 z m 5.71877,-3.97791 -28.67951,-13.94059 28.44922,8.23458 z"
+             transform="matrix(-1.7338143,0,0,1.7338143,411.74192,-168.91835)"
+             sodipodi:nodetypes="cccc"
+             inkscape:original-d="m 148.08335,221.15827 2.26685,31.80748 -7.09325,-28.75504 z"
+             inkscape:path-effect="#path-effect994" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.5197px;line-height:1.25;font-family:'Ekushey 16 December';-inkscape-font-specification:'Ekushey 16 December';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.487995"
+         x="64.913834"
+         y="24.22974"
+         id="text998"
+         inkscape:export-filename="/home/user/Pictures/ymir/www/assets/iamges/logo.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan996"
+           x="64.913834"
+           y="24.22974"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fengardo Neue';-inkscape-font-specification:'Fengardo Neue';stroke-width:0.487995">ymir</tspan></text>
+    </g>
+    <g
+       id="g950">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.36557px;line-height:1.25;font-family:'Ekushey 16 December';-inkscape-font-specification:'Ekushey 16 December';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.134139;"
+         x="140.54184"
+         y="22.852089"
+         id="text63"><tspan
+           sodipodi:role="line"
+           id="tspan61"
+           x="140.54184"
+           y="22.852089"
+           style="stroke-width:0.134139;fill:#444444;fill-opacity:1;">HOME</tspan></text>
+      <text
+         id="text67"
+         y="22.852089"
+         x="168.21428"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.36557px;line-height:1.25;font-family:'Ekushey 16 December';-inkscape-font-specification:'Ekushey 16 December';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.134139;"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.134139;fill:#444444;fill-opacity:1;"
+           y="22.852089"
+           x="168.21428"
+           id="tspan65"
+           sodipodi:role="line">WHY</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.36557px;line-height:1.25;font-family:'Ekushey 16 December';-inkscape-font-specification:'Ekushey 16 December';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.134139"
+         x="201.61644"
+         y="22.852089"
+         id="text71"><tspan
+           sodipodi:role="line"
+           id="tspan69"
+           x="201.61644"
+           y="22.852089"
+           style="fill:#aa0000;fill-opacity:1;stroke-width:0.134139">SOLUTION</tspan></text>
+      <text
+         id="text75"
+         y="22.852089"
+         x="238.72314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.36557px;line-height:1.25;font-family:'Ekushey 16 December';-inkscape-font-specification:'Ekushey 16 December';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.134139;"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.134139;fill:#444444;fill-opacity:1;"
+           y="22.852089"
+           x="238.72314"
+           id="tspan73"
+           sodipodi:role="line">INSTALL</tspan></text>
+      <path
+         style="fill:none;stroke:#aa0000;stroke-width:0.526706;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 188.19863,24.815117 h 26.65908"
+         id="path77" />
+    </g>
+    <g
+       id="g83"
+       transform="translate(-109.63355,260.26905)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Ekushey 16 December';-inkscape-font-specification:'Ekushey 16 December';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fff6f6;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="132.62108"
+       y="68.964935"
+       id="text962"><tspan
+         sodipodi:role="line"
+         id="tspan960"
+         x="132.62108"
+         y="68.964935"
+         style="fill:#fff6f6;stroke-width:0.264583;fill-opacity:1;">Welcome to your freedom!</tspan></text>
+    <text
+       id="text966"
+       y="127.28304"
+       x="132.62108"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Ekushey 16 December';-inkscape-font-specification:'Ekushey 16 December';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:138.979;fill:#fff6f6;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         x="132.62108"
+         y="127.28304"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#fff6f6;fill-opacity:1">Ymir</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#fff6f6;fill-opacity:1;stroke-width:0.264583"> is a GNU+Linux-libre distro that aims to be</tspan><tspan></tspan><tspan
+           y="127.28304"> </tspan></tspan><tspan
+         x="132.62108"
+         y="133.68128"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#fff6f6;fill-opacity:1;stroke-width:0.264583">lightweight, efficient, bleeding edge and most</tspan><tspan></tspan><tspan
+           y="133.68128"> </tspan></tspan><tspan
+         x="132.62108"
+         y="140.07952"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#fff6f6;fill-opacity:1;stroke-width:0.264583">importantly libre*. We aim to be Free as in freedom</tspan><tspan></tspan><tspan
+           y="140.07952"> </tspan></tspan><tspan
+         x="132.62108"
+         y="146.47776"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#fff6f6;fill-opacity:1;stroke-width:0.264583">from kernel to packages to every bit on your system.</tspan></tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.52916668;paint-order:markers fill stroke;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect968"
+       width="98.461746"
+       height="40.746418"
+       x="82.33252"
+       y="76.449097"
+       rx="3.1316628"
+       ry="3.1316628"
+       inkscape:export-filename="/home/user/Pictures/ymir/www/assets/images/term.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="1.2056524"
+       rx="1.2056524"
+       y="81.972954"
+       x="83.790459"
+       height="33.679977"
+       width="95.708839"
+       id="rect970"
+       style="fill:#333333;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.474325;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       inkscape:export-filename="/home/user/Pictures/ymir/www/assets/images/term.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path972"
+       cx="175.90665"
+       cy="79.17202"
+       r="1.2445326"
+       inkscape:export-filename="/home/user/Pictures/ymir/www/assets/images/term.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       id="text986"
+       y="92.826462"
+       x="87.645432"
+       style="font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ececec;fill-opacity:1;stroke-width:0.09502"
+       xml:space="preserve"
+       inkscape:export-filename="/home/user/Pictures/ymir/www/assets/images/term.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#ececec;fill-opacity:1;stroke-width:0.09502"
+         y="92.826462"
+         x="87.645432"
+         id="tspan984"
+         sodipodi:role="line">Linux-libre 5.8.8-gnu_1 x86_64</tspan></text>
+    <text
+       id="text992"
+       y="88.229393"
+       x="87.688492"
+       style="font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d70c0c;fill-opacity:1;stroke-width:0.09502"
+       xml:space="preserve"
+       inkscape:export-filename="/home/user/Pictures/ymir/www/assets/images/term.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;text-anchor:start;fill:#ececec;fill-opacity:1;stroke-width:0.09502"
+         y="88.229393"
+         x="87.688492"
+         id="tspan990"
+         sodipodi:role="line">$ uname -rms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ececec;fill-opacity:1;stroke-width:0.09502"
+       x="87.645432"
+       y="103.2325"
+       id="text999"
+       inkscape:export-filename="/home/user/Pictures/ymir/www/assets/images/term.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan997"
+         x="87.645432"
+         y="103.2325"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#ececec;fill-opacity:1;stroke-width:0.09502">Distributor ID:	VoidLinux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d70c0c;fill-opacity:1;stroke-width:0.09502"
+       x="87.688492"
+       y="98.635429"
+       id="text1003"
+       inkscape:export-filename="/home/user/Pictures/ymir/www/assets/images/term.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1001"
+         x="87.688492"
+         y="98.635429"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;text-anchor:start;fill:#ececec;fill-opacity:1;stroke-width:0.09502">$ lsb_release -i</tspan></text>
+  </g>
+</svg>
